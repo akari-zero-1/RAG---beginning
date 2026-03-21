@@ -1,0 +1,12 @@
+langchain
+langchain-experimental
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
+langchain-cohere
+sentence-transformers
+langchain-chroma
+python-dotenv
+unstructured[pdf]
+unstructured-inference
